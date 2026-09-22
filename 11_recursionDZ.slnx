@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="11_recursionDZ/11_recursionDZ.vcxproj" Id="333a1b14-4383-4602-a048-f53b539ffb8d" />
+</Solution>
